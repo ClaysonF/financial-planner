@@ -9,6 +9,8 @@
 !.yarn/plugins
 !.yarn/releases
 !.yarn/versions
+dist/
+prisma/migrations/migration_lock.toml
 
 # testing
 /coverage
